@@ -1,0 +1,29 @@
+[33mcommit 64aacaaa4cb53aaa7b90a021a932f46e48074017[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32massignment1[m[33m)[m
+Author: Ahana Anil <ahana1000@gmail.com>
+Date:   Sun Aug 30 23:43:49 2026 +1000
+
+     taskController.js file is added
+
+[33mcommit 1b64fee5335d397587203a5e71adc81d65634025[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: nahaQUT <naha@qut.edu.au>
+Date:   Sat Mar 14 14:43:24 2026 +1000
+
+    Create .gitignore
+
+[33mcommit 7dc2d6982f16537771e04880e6253b978991fc08[m
+Author: nahaQUT <naha@qut.edu.au>
+Date:   Sat Mar 14 14:42:42 2026 +1000
+
+    Create .env.example
+
+[33mcommit e79b172022fca44c020fc47095c139c17a293e16[m
+Author: nahaQUT <naha@qut.edu.au>
+Date:   Sat Mar 14 14:41:07 2026 +1000
+
+    Create .gitignore
+
+[33mcommit 7d09e2bd6e4a2e2e2508e238c017d94e93cd2c11[m
+Author: nahaQUT <naha@qut.edu.au>
+Date:   Sat Mar 14 14:37:58 2026 +1000
+
+    TaskManager v1
